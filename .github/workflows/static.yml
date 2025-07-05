@@ -1,0 +1,7 @@
+cd caminho/da/pasta/ele
+git init
+git add .
+git commit -m "Site inicial com imagens locais"
+git branch -M main
+git remote add origin https://github.com/reaf23t/eletronicaneto.com
+git push -u origin main
